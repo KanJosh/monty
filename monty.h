@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 #ifndef MONTY_H
 #define MONTY_H
-
+#define_GNU_SOURCE
 #include <stddef.h>
 #include <stdlib.h>
 
